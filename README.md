@@ -3,7 +3,7 @@
 ## Built By [George kamau ](https://github.com/shi-km/)
 
 ## Description
-Password Locker is a Terminal run Python application that allows users to store details i.e. usernames and passwords of their various accounts.
+password Locker is a Terminal run Python application that allows users to store details i.e. usernames and passwords of their various accounts.
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
