@@ -42,7 +42,7 @@ As a user I would like:
         $ ./run.py
         
 ## Testing the Application
-* to run the tests for the class file:
+* To run the tests for the class file:
 
         $ python3.6 test_locker.py
         
