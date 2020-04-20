@@ -36,7 +36,7 @@ As a user I would like:
         $ cd Python
 
 ## Running the Application
-* To run the application, in your terminal:
+* to run the application, in your terminal:
 
         $ chmod +x locker.py
         $ ./run.py
