@@ -1,6 +1,6 @@
 # Passwordlocker
 
-## Built By [george kamau ](https://github.com/shi-km/)
+## Built By [George kamau ](https://github.com/shi-km/)
 
 ## Description
 Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
