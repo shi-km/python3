@@ -32,7 +32,7 @@ As a user I would like:
 ### Cloning
 * In your terminal:
         
-        $ git clone /
+        $ git clone /(https://github.com/shi-km/python3)
         $ cd Python
 
 ## Running the Application
