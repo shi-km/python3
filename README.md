@@ -50,5 +50,5 @@ As a user I would like:
 * Python3.6
 
 ## License
-MIT &copy;2019 [George kamau](https://github.com/shi-km/python3/blob/master/LICENSE)
+MIT &copy;2020 [George kamau](https://github.com/shi-km/python3/blob/master/LICENSE)
 
